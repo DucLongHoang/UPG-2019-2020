@@ -1,7 +1,8 @@
 # UPG-2019-2020
 Simulator of Water Flow
 
-Zadání semestrální práce KIV/UPG 2019/2020
+Zadání semestrální práce KIV/UPG 2019/2020 
+
 Verze 1.0
 
 Předmětem semestrální práce je interaktivní vizualizace toku vody v krajině. Veškerá data pro vizualizaci, tj. výšková data krajiny a aktuální stav vody, dodá instance třídy Simulator knihovny, která je součástí výchozího projektu, který je k dispozici ke stažení z https://gitlab.kiv.zcu.cz/UPG/WaterFlowSim_UPG_2020.git , tj. vlastní
